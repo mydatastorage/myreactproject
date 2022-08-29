@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/myreactproject/static/css/main.7aaae87b.chunk.css",
+    "main.js": "/myreactproject/static/js/main.46d50c48.chunk.js",
+    "main.js.map": "/myreactproject/static/js/main.46d50c48.chunk.js.map",
+    "runtime-main.js": "/myreactproject/static/js/runtime-main.1029ed80.js",
+    "runtime-main.js.map": "/myreactproject/static/js/runtime-main.1029ed80.js.map",
+    "static/css/2.529c2cdb.chunk.css": "/myreactproject/static/css/2.529c2cdb.chunk.css",
+    "static/js/2.95532599.chunk.js": "/myreactproject/static/js/2.95532599.chunk.js",
+    "static/js/2.95532599.chunk.js.map": "/myreactproject/static/js/2.95532599.chunk.js.map",
+    "index.html": "/myreactproject/index.html",
+    "precache-manifest.47079aa5aa4eb76c061406597b4305d1.js": "/myreactproject/precache-manifest.47079aa5aa4eb76c061406597b4305d1.js",
+    "service-worker.js": "/myreactproject/service-worker.js",
+    "static/css/2.529c2cdb.chunk.css.map": "/myreactproject/static/css/2.529c2cdb.chunk.css.map",
+    "static/css/main.7aaae87b.chunk.css.map": "/myreactproject/static/css/main.7aaae87b.chunk.css.map",
+    "static/media/semantic.min.css": "/myreactproject/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.svg": "/myreactproject/static/media/logo.cc3fff7e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1029ed80.js",
+    "static/css/2.529c2cdb.chunk.css",
+    "static/js/2.95532599.chunk.js",
+    "static/css/main.7aaae87b.chunk.css",
+    "static/js/main.46d50c48.chunk.js"
+  ]
+}
